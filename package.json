@@ -1,8 +1,8 @@
 {
-  "name": "react-frankie-components",
+  "name": "react-frankie-bootstrap",
   "private": true,
   "version": "0.0.0",
-  "description": "React components",
+  "description": "React bootstrap",
   "main": "lib/index.js",
   "scripts": {
     "clean": "rm -Rf ./lib",
