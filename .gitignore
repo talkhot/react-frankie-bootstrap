@@ -1,0 +1,4 @@
+node_modules
+coverage
+col-split-bak.js
+.DS_Store
