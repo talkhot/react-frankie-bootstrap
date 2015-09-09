@@ -1,0 +1,856 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"chordI",
+				"chordIsSimple"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"firs",
+				"first-child"
+			],
+			[
+				"co",
+				"collaps"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"cla",
+				"classNames"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"go",
+				"googleAnalyticsId"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"ca",
+				"CacheControl"
+			],
+			[
+				"suc",
+				"Successfully"
+			],
+			[
+				"policie",
+				"example-bucket-policies-use-case-6"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"API",
+				"appID"
+			],
+			[
+				"so",
+				"SolcialWidget"
+			],
+			[
+				"S",
+				"StaticTwoColumnSplit"
+			],
+			[
+				"A",
+				"AdsApp"
+			],
+			[
+				"pro",
+				"props	React: this.props."
+			],
+			[
+				"com",
+				"component"
+			],
+			[
+				"prod",
+				"production"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"te",
+				"text-align-last"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"SE",
+				"SELECT"
+			],
+			[
+				"ja",
+				"jazz-rock"
+			],
+			[
+				"tag",
+				"tag_id"
+			],
+			[
+				"part",
+				"part_of"
+			],
+			[
+				"event",
+				"event_id"
+			],
+			[
+				"exh",
+				"exhibition"
+			],
+			[
+				"ad",
+				"address_id"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"post",
+				"postgres"
+			],
+			[
+				"art",
+				"artist"
+			],
+			[
+				"film",
+				"film-festival"
+			],
+			[
+				"eve",
+				"evening"
+			],
+			[
+				"de",
+				"details"
+			],
+			[
+				"s",
+				"siblings"
+			],
+			[
+				"cat",
+				"catagory"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/stores/page-title.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/components/chordgenerator-widget.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/components/generator/key-select.jsx",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/.gitignore",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/components/generator/display.jsx",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/components/generator/mood-select.jsx",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/chordgenerator/index.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/components/generator/mode-select.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/components/generator/hit-button.jsx",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/webpack/base.config.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/actions/page-title.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/stores/chords.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/actions/chords.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/chordgenerator/generate-chord.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/actions/locale.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/components/home.jsx",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/components/footer.jsx",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/components/header.jsx",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/src/scss/components/_header.scss",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/src/scss/global/_global.scss",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/routes.jsx",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/package.json",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/data/en.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/src/scss/vendor/bootstrap/bootstrap/_type.scss",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/components/chordgenerator.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/src/scss/vendor/bootstrap/bootstrap/_variables.scss",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/components/team.jsx",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/src/scss/components/_footer.scss",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/components/app.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/header-1.jsx",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/src/scss/vendor/bootstrap/_bootstrap.scss",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/chordgenerator/chord-database.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/chordgenerator/generate-chords.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/chordgenerator/get-random-int.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/main.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/main.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/chordgenerator/make-string.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/utils/localized-routes.jsx",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/chordgenerator/make-sting.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/chordgenerator/progressions.json",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/chordgenerator/progressions-json.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/components/main.jsx",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/components/shared/lang-picker.jsx",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/server/router.jsx",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/src/assets/ChordGenDatabase01/chordgeneratorcomplex.cpp",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/chordgenerator/db.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/chordgenerator/db,js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/chordgenerator/getRandomArbitrary.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/src/assets/ChordGenDatabase01/mainwindow.cpp",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/utils/chordgenerator.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/src/assets/ChordGenDatabase01/mainwindow.h",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/grid.jsx",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/src/assets/ChordGenDatabase01/chordgeneratorcomplex.h",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator-bak/app/html/index.html",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/utils/flux.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/config/project.json",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/server/index.js",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/utils/intl-loader.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/app.jsx",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/utils/intl-polyfill.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/server/views/layouts/index.hbs",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/server/views/layouts/index.hbs",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/routes.jsx",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/frankie.sublime-project",
+		"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/components/shared/spinner.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/scss/vendor/_lazysizes.scss",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/utils/plugins-lazysizes.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/utils/vendor-lazysizes.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/swiper.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/swipe.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/swipe2.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/stores/page-title.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/scss/vendor/bootstrap/bootstrap/_variables.scss",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/scss/vendor/icomoon/_style.scss",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/scss/vendor/bootstrap/extend/_responsive-utilities.scss",
+		"/Users/using/Webserver/mrfrankie/clients/studio_st&t/independent/independent.nl/src/scss/vendor/bootstrap/bootstrap/_type.scss",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/scss/vendor/bootstrap/bootstrap/_type.scss",
+		"/Users/using/Webserver/mrfrankie/clients/studio_st&t/independent/independent.nl/src/scss/vendor/bootstrap/bootstrap/_variables.scss",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/scss/vendor/bootstrap/_bootstrap.scss",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/.eslintrc",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/utils/intl-loader.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/header.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/server/router.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/utils/flux.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/utils/alt-resolver.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/stores/requests.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/utils/dom-utils.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/stores/locale.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/stores/users.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/utils/image-resolver.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/data/en.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/data/nl.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/shared/spinner.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/users.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/shared/require-auth.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/shared/lang-picker.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/header-4.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/header-3.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/profile.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/data/fr.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/utils/transition-events.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/pages/not-found.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/custom/mixins/horizontal-mixin.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/scss/bootstrap/extend/_helper-classes.scss",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/package.json",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/server/koa.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/webpack/prod.config.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/webpack/dev.config.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/webpack/utils/start-koa.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/form.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/react-swipe.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/header-2.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/stylizer/bootstrap/_bootstrap.scss",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/stylizer/bootstrap/bootstrap/_buttons.scss",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/custom/widgets/bootstrap/ColSplit.pure.js",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/header-5.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/header-6.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/stylizer/bootstrap/bootstrap/_dropdowns.scss",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/stylizer/bootstrap/bootstrap/_grid.scss",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/stylizer/bootstrap/bootstrap/_button-groups.scss",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/stylizer/bootstrap/bootstrap/_input-groups.scss",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/stylizer/bootstrap/bootstrap/_responsive-utilities.scss",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/stylizer/bootstrap/extend/_responsive-utilities.scss",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/stylizer/bootstrap/extend/_variables.scss",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/guides.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/stylizer/bootstrap/bootstrap/_forms.scss",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components/footer.jsx",
+		"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/node_modules/react-frankie-components/.gitignore"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app",
+			"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/src/scss",
+			"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app",
+			"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/utils",
+			"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app/chordgenerator",
+			"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app",
+			"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/server",
+			"/Users/using/Webserver/mrfrankie/projects/hit-chord-generator/app",
+			"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app",
+			"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/scss",
+			"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/scss/vendor",
+			"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/components",
+			"/Users/using/Webserver/mrfrankie/frankie-boilerplate-iam4x/app/src/stylizer",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/app",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/server",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/webpack",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/app/src/sass/assets/bootstrap-sass/assets/stylesheets/bootstrap",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/app/src/sass",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/app/src/sass/assets",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/app/src/sass",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/app/src/sass/assets/bootstrap-sass/assets/stylesheets/bootstrap",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/node_modules/s3",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/node_modules/s3/lib",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/webpack",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/app/src/sass",
+			"/home/rstegeman/Webserver/mrfranky/isomorphic-flux-boilerplate/app",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/app",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/webpack",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/server",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/app",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/server",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/webpack",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/server",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/app/components",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/app/components/shared",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/app/components",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/server",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/webpack",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/app",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/server",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/webpack",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/server",
+			"/home/rstegeman/Webserver/mrfranky/franky-boilerplate-iam4x/app",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/test_org/isomorphic-flux-boilerplate/server",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/test_org/isomorphic-flux-boilerplate/app",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/test_org/isomorphic-flux-boilerplate/node_modules/intl",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/test_org/isomorphic-flux-boilerplate/app",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/test_org/isomorphic-flux-boilerplate/server",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/test_org/isomorphic-flux-boilerplate/app",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/test_org/isomorphic-flux-boilerplate/server",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/test_org/isomorphic-flux-boilerplate/app",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate/app/stores",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate/node_modules",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate/app",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate/server",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate/app",
+			"/home/rstegeman/Webserver/mrfranky/frankie-boilerplate/src/js",
+			"/home/rstegeman/Webserver/mrfranky/frankie-boilerplate/server",
+			"/home/rstegeman/Webserver/mrfranky/frankie-boilerplate/src",
+			"/home/rstegeman/Webserver/mrfranky/frankie-boilerplate",
+			"/home/rstegeman/Webserver/mrfranky/frankie-boilerplate/server",
+			"/home/rstegeman/Webserver/mrfranky/frankie-boilerplate",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate-edit/server",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate-edit/webpack",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate-edit/server",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate-edit/webpack",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate-edit/server",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate-edit",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate-edit/app",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate-edit/server",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate-edit",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate-edit/server",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate-edit/app",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate-edit/server",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate-edit/app",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate-edit",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/isomorphic-flux-boilerplate-edit/server",
+			"/home/rstegeman/Webserver/mrfranky/testing/fluxible.io",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/flux-comparison/marty",
+			"/home/rstegeman/Webserver/mrfranky/testing/boilerplates/este/src",
+			"/home/rstegeman/Webserver/mrfranky/herman_app/fluxible-router/gulp",
+			"/home/rstegeman/Webserver/mrfranky/herman_app/fluxible-router/",
+			"/home/rstegeman/Webserver/mrfranky/herman_app/fluxible-router/src/javascript",
+			"/home/rstegeman/Webserver/mrfranky/herman_app/vXX/flux-examples/fluxible-router/src/javascript/components/apps",
+			"/home/rstegeman/Webserver/mrfranky/herman_app/vXX/flux-examples/fluxible-router/src/javascript",
+			"/home/rstegeman/Webserver/mrfranky/herman_app/vXX/flux-examples/fluxible-router/src",
+			"/home/rstegeman/Webserver/mrfranky/herman_app/vXX/flux-examples/fluxible-router",
+			"/home/rstegeman/Webserver/agendy_app",
+			"/home/rstegeman/Webserver/trial/bootstrap-sass-master/assets/stylesheets",
+			"/home/rstegeman/Webserver/mrfranky/herman_app/src/sass",
+			"/home/rstegeman/Webserver/agendy_app/src/sass",
+			"/home/rstegeman/Webserver/mrfranky/herman_app/src/sass",
+			"/home/rstegeman/Webserver/trial/bootstrap-sass-master/assets/stylesheets",
+			"/home/rstegeman/Webserver/mrfranky/herman_app/src",
+			"/home/rstegeman/Webserver/trial/bootstrap-sass-master/assets/stylesheets",
+			"/home/rstegeman/Webserver/mrfranky/herman_app/src/sass",
+			"/home/rstegeman/Webserver/trial/bootstrap-sass-master/assets/stylesheets",
+			"/home/rstegeman/Webserver/trial/bootstrap-sass-master/assets/stylesheets/bootstrap",
+			"/home/rstegeman/Webserver/trial/bootstrap-sass-master/assets/stylesheets",
+			"/home/rstegeman/Webserver/mrfranky/herman_app/src/javascript",
+			"/home/rstegeman/Webserver/agendy_app/src",
+			"/home/rstegeman/Webserver/agendy_app/src/javascript",
+			"/home/rstegeman/Webserver/agendy_app",
+			"/home/rstegeman/Webserver/agendy_app/src/javascript",
+			"/home/rstegeman/Webserver/agendy_app",
+			"/home/rstegeman/Webserver/trial/flux-examples/react-router",
+			"/home/rstegeman/Webserver/agendy_app/src/javascript"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"TODO",
+			"\"",
+			".app--header .menu",
+			".menu-horizontal.menu-scrollable",
+			"eadings-font-weight",
+			"$",
+			"sChord",
+			"chordmode",
+			"//////////////////////////////////////////////////////////////////////////////////////////////////",
+			"Router.run",
+			")\n        {",
+			"else\n            {",
+			")\n            {",
+			"chordIsSimple",
+			"RandomNumber2",
+			"RandomNumber1",
+			"int",
+			"int RandomNumber1",
+			"Complex",
+			"Intermediate",
+			"m_Chordmode",
+			"m_ChordCount",
+			"forEach",
+			"moodTranspose",
+			"var transposeValue",
+			"int index2",
+			"TransposeArray",
+			"qrand()",
+			"qrand() % 4 + 1;",
+			"qrand() % 3 + 1;",
+			"qrand() % 1 + 1;",
+			"qrand() % 2 + 1;",
+			"Flag1 = ChordIsNotSimple;",
+			"Flag1 === ChordIsSimple",
+			"int RandomNumber2",
+			"int RandomNumber1",
+			"TransposeValue",
+			"Chordindex",
+			"Index",
+			"\"",
+			"==",
+			"FIELD5",
+			"FIELD4",
+			"FIELD3",
+			"FIELD2",
+			"F1",
+			"transaction",
+			"\"",
+			"var",
+			"Mood",
+			"m_TransposeValue",
+			"\"",
+			"routes",
+			"class",
+			"./config/init",
+			"intl-polyfill",
+			"config",
+			"lazyload",
+			"max-page",
+			"max-apge",
+			"$bold-font-weight",
+			";",
+			"bootstrap",
+			"\"",
+			"textarea",
+			"\"",
+			"'",
+			"page-container-responsive",
+			"$max-page-width",
+			"\"",
+			"widgets/frankie-components/src/index",
+			"'",
+			"widgets/frankie-components/src/index",
+			".menu",
+			"open",
+			"menu-width",
+			"openvisiblevisiblevisible",
+			"after",
+			"collapse",
+			"){",
+			"(){",
+			") {",
+			"(){",
+			"if(",
+			"menu-dropdown",
+			"collapsing",
+			"getCollapsibleDimensionValue",
+			"getCollapsibleDOMNode",
+			"_checkStartAnimation",
+			"setCollapsibleHeight",
+			"TransitionEvents",
+			"React",
+			"collapse-takes-space",
+			"object",
+			"testje",
+			"menu-horizontal",
+			"components",
+			"\"",
+			"class",
+			"pure-",
+			" className='menu-item'",
+			" className='menu-link'",
+			"70",
+			"tuckedMenu",
+			"\"",
+			"#toggle",
+			"href=\"#\" ",
+			"menu-link",
+			"pure-",
+			"class",
+			".collapse",
+			".navbar-collapse",
+			" form-inline\n",
+			"pure-menu",
+			"      <div className='app--header'>\n        <header className='header-mobile show-xs'>\n          <Navbar brand='React-Bootstrap' inverse toggleNavKey={0}>\n            <Nav right eventKey={0}> {/* This is the eventKey referenced */}\n              <NavItem eventKey={1} href='#'>Link</NavItem>\n              <NavItem eventKey={2} href='#'>Link</NavItem>\n              <DropdownButton eventKey={3} title='Dropdown'>\n                <MenuItem eventKey='1'>Action</MenuItem>\n                <MenuItem eventKey='2'>Another action</MenuItem>\n                <MenuItem eventKey='3'>Something else here</MenuItem>\n                <MenuItem divider />\n                <MenuItem eventKey='4'>Separated link</MenuItem>\n              </DropdownButton>\n            </Nav>\n          </Navbar>\n        </header>\n        <header className='header-regular hide-xs nav-justified pure-menu-horizontal'>\n          <ul className='text-center list-inline list-unstyled pure-menu-list'>\n            <li className='pure-menu-item'><Link className=\"pure-menu-link\" to='app'>{this.getIntlMessage('header.users')}</Link></li>\n            <li className='pure-menu-item'><Link className=\"pure-menu-link\" to='guides'>{this.getIntlMessage('header.guides')}</Link></li>\n            <li className='pure-menu-item'><Link className=\"pure-menu-link\" to='grid'>grid</Link></li>\n            <li className=\"pure-menu-item pure-menu-has-children pure-menu-allow-hover\">\n                <a className=\"pure-menu-link\" href=\"#\" id=\"menuLink1\">Contact</a>\n                <ul className=\"pure-menu-children\">\n                    <li className=\"pure-menu-item\"><a href=\"#\" className=\"pure-menu-link\">Email</a></li>\n                    <li className=\"pure-menu-item\"><a href=\"#\" className=\"pure-menu-link\">Twitter</a></li>\n                    <li className=\"pure-menu-item\"><a href=\"#\" className=\"pure-menu-link\">Tumblr Blog</a></li>\n                </ul>\n            </li>\n          </ul>\n        </header>\n      </div>",
+			"<RouteHandler",
+			"<RouteHandler/>",
+			"<RouteHandler />",
+			"locales",
+			"all",
+			"all.json",
+			"form-inline\nform-inline\nform-inline\nform-inline",
+			"hide-sm",
+			"\"",
+			"@include border-right-radius",
+			"@include border-left-radius(0);",
+			"border-right-radius: 0;",
+			"vertical-align: middle;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"chord",
+			"chordMode",
+			"  // ----------------------------------------------------",
+			") {",
+			"else {",
+			") {",
+			"isChordSimple",
+			"randomNumber2",
+			"randomNumber1",
+			"'Complex'",
+			"'Intermediate'",
+			"chordmode",
+			"chordCount",
+			"let index2",
+			"transposeArray",
+			"getRandomInt(1, 5);",
+			"getRandomInt(1, 4);",
+			"getRandomInt(1, 2);",
+			"getRandomInt(1, 3);",
+			"chordIsSimple = false;",
+			"chordIsSimple",
+			"let randomNumber2",
+			"let randomNumber1",
+			"let RandomNumber1",
+			"transposeValue",
+			"chordIndex",
+			"index",
+			"'",
+			"===",
+			"F4",
+			"F3",
+			"F2",
+			"F1",
+			"'",
+			"const",
+			"transposeValue",
+			"'",
+			"className",
+			"lzy",
+			",",
+			"'",
+			"react-frankie-components",
+			"side-menu-width",
+			") {",
+			"() {",
+			"if (",
+			"'",
+			"className",
+			"",
+			"'",
+			"",
+			"className",
+			"menu",
+			"'",
+			"border-left-radius: 0;",
+			"border-right-radius: 0;",
+			"",
+			"var",
+			"src/styles/",
+			"source/",
+			"src/styles/",
+			"../src/styles/",
+			"src/styles/",
+			"../src/img/",
+			"server.use",
+			"",
+			"ProductStore",
+			"//d3svhnsf1asqqr.cloudfront.net/",
+			"//d3svhnsf1asqqr.cloudfront.net/images",
+			"//www.googledrive.com/host/0BzdGCIc_PgDGfktsYXhKNjRPNFlCSE54eGQ4TnpYYmoxZlNLWE5tNFZIaExhdk5Tdk01Z28/images",
+			"//www.googledrive.com/host/0BzdGCIc_PgDGfktsYXhKNjRPNFlCSE54eGQ4TnpYYmoxZlNLWE5tNFZIaExhdk5Tdk01Z28/",
+			"h4",
+			"WorkStore",
+			"require('fluxible').FluxibleMixin",
+			"component",
+			"require('fluxible').Mixin",
+			"E.",
+			"event",
+			"",
+			"start_date_time",
+			"timestamp",
+			"UNIQUE",
+			"",
+			"serial",
+			"tag_free_id",
+			"event_id",
+			"tag_free",
+			"event_to_tag_free",
+			"event",
+			"tag_free",
+			"id"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
