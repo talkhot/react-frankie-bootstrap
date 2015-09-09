@@ -3,18 +3,22 @@ import classNames from 'classnames';
 
 export default class Col extends React.Component {
   static propTypes: {
+    tn: React.PropTypes.number,
     xs: React.PropTypes.number,
     sm: React.PropTypes.number,
     md: React.PropTypes.number,
     lg: React.PropTypes.number,
+    tnOffset: React.PropTypes.number,
     xsOffset: React.PropTypes.number,
     smOffset: React.PropTypes.number,
     mdOffset: React.PropTypes.number,
     lgOffset: React.PropTypes.number,
+    tnPush: React.PropTypes.number,
     xsPush: React.PropTypes.number,
     smPush: React.PropTypes.number,
     mdPush: React.PropTypes.number,
     lgPush: React.PropTypes.number,
+    tnPull: React.PropTypes.number,
     xsPull: React.PropTypes.number,
     smPull: React.PropTypes.number,
     mdPull: React.PropTypes.number,
@@ -28,7 +32,8 @@ export default class Col extends React.Component {
       'large': 'lg',
       'medium': 'md',
       'small': 'sm',
-      'xsmall': 'xs'
+      'xsmall': 'xs',
+      'tiny': 'tn'
     };
 
     let classes = {};
